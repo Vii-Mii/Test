@@ -1,1 +1,3 @@
-python 
+#python 
+def prime (number):
+  pass
